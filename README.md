@@ -5,5 +5,5 @@
   <p>buu.</p>
   <!-- Other content to be centered -->
 </div>
-portada.jpg
+<img src="portada.jpg">
 <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">
